@@ -11,7 +11,7 @@ open-source but without the "poison pill" of so-called copyleft licenses
 such as the GPL.
 
 Copyneuter will not itself be a software license, but a practical agreement
-to establish in advance //permissive// licenses which will automatically apply
+to establish in advance **permissive** licenses which will automatically apply
 to content/code created for a new project, such as between a customer and
 a software development vendor or subcontractor.
 
@@ -27,7 +27,7 @@ General terms:
   * ...but is automatically licensed to the customer under a permissive license
     such as MIT/BSD/Artistic
   * Vendor/customer are free to decide on a case-by-case basis if the license 
-    will be //exclusive// to the customer or public/open-source. The default 
+    will be **exclusive** to the customer or public/open-source. The default 
     should be exclusive, however, there should be a simple mechanism to make
     open-source:
       * The customer may declare it should be open-source (which should already 
@@ -35,7 +35,7 @@ General terms:
       * The vendor declaring in advance their intent to open-source a specific 
         component and the customer not refusing when given a reasonable 
         opportunity to do so.
-  * For all derived works, included libraries, etc, for which the vendor is //not//
+  * For all derived works, included libraries, etc, for which the vendor is **not**
     the copyright holder, whatever is the most permissive license granted to the
     vendor shall be passed on to the customer
 
